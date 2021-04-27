@@ -1,0 +1,7 @@
+Class 5
+
+Handling Checkboxes and RadioButtons:
+1. if you have only one checkbox or radiobutton -- you can simply click on it
+2. if you have multiple checkboxes or radiobuttons - store them in a list and loop through
+
+
