@@ -34,5 +34,15 @@ Frames allow devs to present multiple views in one page
 2. by name or id
 3. by webelement
 
+in alerts -- switch to alert manually and switch back automatically
+in frames -- switch to frames manually and we switch back manually
 
+Task
+Navigate to http://syntaxtechs.com/selenium-practice/bootstrap-iframe.php
+verify the header text AUTOMATION TESTING PLATFORM BY SYNTAX is displayed
+verify enroll today button is enabled
+
+HW
+Go to http://syntaxtechs.com/selenium-practice/javascript-alert-box-demo.php
+click on each button and handle the alert accordingly
 
