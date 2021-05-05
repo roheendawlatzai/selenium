@@ -1,0 +1,14 @@
+Class 8
+
+Implicit wait
+will be applied for findElement() method
+
+Explicit Wait or WebDriver wait:
+is used to tell the webdriver to wait for a certain condition
+before throwing an "ElementNotVisibleException"
+
+Explicit wait works with ExpectedConditions class and
+waits until certain conditions are met or the given time is achieved
+
+
+
