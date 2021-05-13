@@ -8,3 +8,16 @@ How to handle Calendars:
 5. Loop through the cells
 6. once the cell value is matched with our condition --> click on the matched date and break the loop
 
+Why do we need screenshots in testing?
+in testing it is very important to take screenshots in order to prove that our test scenario
+covered certain functionality
+
+In selenium in order to take screenshots we will be using TakesScreenshot interface
+
+Actions Class
+Actions class is given by selenium to capture keyboard and mouse events such as:
+Move to element
+drag and drop
+double click
+right click
+
